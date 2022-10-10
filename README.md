@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Afif Naim</h1>
 <h3 align="center">Backend developer</h3>
 
-- 🔭 I’m currently working on **krenova-sukoharjo**
+- **Freelance Programmer**
 
 - 🌱 I’m currently learning **Phyton, PHP Laravel**
 
