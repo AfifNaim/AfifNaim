@@ -1,15 +1,5 @@
-<h1 align="center">Hi 👋, I'm Afif Naim</h1>
-<h3 align="center">Backend developer</h3>
+<h1 align="center">Afif Naim</h1>
 
-- **Freelance Programmer**
-
-- 🌱 I’m currently learning **Phyton, PHP Laravel**
-
-- 💬 Ask me about **PHP**
-
-- 📫 How to reach me **afifnaim24@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/afifnaim24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="afifnaim24" height="30" width="40" /></a>
 <a href="https://instagram.com/afifnaim24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="afifnaim24" height="30" width="40" /></a>
