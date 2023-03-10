@@ -15,6 +15,6 @@
 <p><a href="https://klinikakuntansipajak.id/">Klinikakuntansipajak.id</a><br><a>Wordpress Dev</a></p>
 <p><a href="https://m3118056.mhs.d3tiuns.com/">Final Project D3 Teknik Informatika SV UNS</a><br><a>as Fullstak Web Dev</a></p>
 <p><a href="https://play.google.com/store/apps/details?id=com.absensidparagon&pli=1">Company Apps</a><br><a>as Backend Dev</a></p>
-<p><a href="https://dparagon.com/">Company Apps</a><br><a>as Fullstak Web Dev</a></p>
+<p><a href="https://dparagon.com/">Company Product</a><br><a>as Fullstak Web Dev</a></p>
 
 
