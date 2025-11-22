@@ -1,4 +1,4 @@
-<h1 align="center">Afif Naim</h1>
+<h1 align="center">Afif Nigga</h1>
 
 <p align="left">
 <a href="https://fb.com/afifnaim24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="afifnaim24" height="30" width="40" /></a>
